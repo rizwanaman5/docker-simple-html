@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "pm2": "pm2 kill && sudo pm2 start app.js",
-    "bash": "bash script.sh"
+    "start": "bash script.sh"
   },
   "keywords": [],
   "author": "",
